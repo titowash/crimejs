@@ -1,0 +1,33 @@
+[01:20:28] alt:V Server 16.0.156 (release)
+[01:20:28] Starting alt:V Server on [::]:7788
+[01:20:28] Loading resource chat
+[01:20:28] Loaded resource chat
+[01:20:28] Loading resource freeroam
+[01:20:28][Warning] Trying to import resource 'chat' without 'alt:' prefix, this is deprecated behaviour.
+[01:20:28][Warning] Import 'alt:chat' instead to silence this warning.
+[01:20:28] Loaded resource freeroam
+[01:20:28] Required server permissions:
+[01:20:28] Optional server permissions:
+[01:20:28] Starting HTTP server on [::]:7788
+[01:20:28] Main thread started (ThreadId: 4636)
+[01:20:28] EntityStreamer thread started (ThreadId: 7504)
+[01:20:28] SyncSend thread started (ThreadId: 2300)
+[01:20:28] SyncSend thread started (ThreadId: 27204)
+[01:20:28] SyncSend thread started (ThreadId: 18844)
+[01:20:28] SyncSend thread started (ThreadId: 26196)
+[01:20:28] SyncSend thread started (ThreadId: 26444)
+[01:20:28] SyncSend thread started (ThreadId: 23308)
+[01:20:28] SyncSend thread started (ThreadId: 16016)
+[01:20:28] SyncSend thread started (ThreadId: 29208)
+[01:20:28] SyncReceive thread started (ThreadId: 8016)
+[01:20:28] SyncReceive thread started (ThreadId: 26532)
+[01:20:28] SyncReceive thread started (ThreadId: 21016)
+[01:20:28] SyncReceive thread started (ThreadId: 29248)
+[01:20:28] NetworkWorker #1 thread started (ThreadId: 13916)
+[01:20:28] Console thread started (ThreadId: 12436)
+[01:20:28][Warning] Server started in debug mode
+[01:20:31] Stopping resource chat
+[01:20:31] Stopping resource freeroam
+[01:20:31] Stopped resource freeroam
+[01:20:31] Stopped resource chat
+[01:20:32] Server shutdown
